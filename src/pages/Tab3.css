@@ -1,0 +1,9 @@
+.products__Topslider {
+  display: -webkit-box;
+  overflow: scroll;
+  padding: 10px 0px;
+}
+
+.product__Topslider {
+  width: 150px;
+}

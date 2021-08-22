@@ -1,0 +1,7 @@
+{
+  "name": "Beauty Queen",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

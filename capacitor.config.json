@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Beauty Queen",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

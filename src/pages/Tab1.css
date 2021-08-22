@@ -1,0 +1,8 @@
+.slide__Container {
+  height: 250px;
+  object-fit: cover;
+}
+
+.Card__bonus {
+  background: #faebd7;
+}
